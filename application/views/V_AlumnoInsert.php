@@ -49,6 +49,67 @@
                       <?= form_error('correo'); ?>
                     </div>
                   </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="date" class="form-control" value="<?= set_value('') ?>"placeholder="Email" name="correo">
+                      <?= form_error('correo'); ?>
+                    </div>
+                  </div>
+                    <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="text" class="form-control" value="<?= set_value('')?>" placeholder="Email" name="correo">
+                        <?= form_error('correo')?>
+                    </div>                        
+                    </div>
+                    
                   <button type="submit" name="GuardarUsuario" class="mu-readmore-btn">Registrarse</button>
                 </div>
               </form>      
